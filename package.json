@@ -1,5 +1,5 @@
 {
-  "name": "astroship",
+  "name": "exosur10-www",
   "type": "module",
   "version": "0.0.1",
   "private": true,
@@ -16,6 +16,7 @@
     "@astrojs/sitemap": "^1.0.1",
     "@astrojs/tailwind": "^3.0.1",
     "@fontsource/inter": "^4.5.15",
+    "@fontsource/sen": "^4.5.9",
     "astro": "^2.0.11",
     "astro-feather-icons": "^1.0.2",
     "astro-icon": "^0.8.0",
